@@ -10,7 +10,10 @@
 
 安装 ADB 后，请在环境变量里将 adb 的安装路径保存到 PATH 变量里，确保 adb 命令可以被识别到
   
-**需要安装运行模块，输入以下命令进行安装**
+**Python 库安装**
+
+需要安装运行模块，输入以下命令进行安装
+
 `pip install baidu-aip Pillow requests`
 
 **OCR获取**
